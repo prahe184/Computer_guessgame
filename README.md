@@ -16,7 +16,7 @@ Steps:
 
 Click on the link below and then click on remix this app
 Now, you will get into another environment where you can find files at the top left corner.
-Next, select guesscom.py file and then click on shell and run command "python3 guess.py" 
+Next, select guess.py file and then click on shell and run command "python3 guess.py" 
 Link : 
 
 # Example Output:
